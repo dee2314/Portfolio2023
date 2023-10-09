@@ -63,7 +63,7 @@ export default function Home() {
                   target="_blank"
                   className="ml-4 text-lg font-medium capitalize text-dark underline dark:text-light md:text-base"
                 >
-                  Let's Chat!
+                  Let&apos;s Chat!
                 </Link>
               </div>
             </div>
