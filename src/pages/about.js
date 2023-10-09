@@ -51,8 +51,8 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Hey there, I'm Dee! After surviving two bone-chilling Midwestern
-                winters, I've earned my stripes as an official Chicago native. I
+                Hey there, I&apos;m Dee! After surviving two bone-chilling Midwestern
+                winters, I&apos;ve earned my stripes as an official Chicago native. I
                 wear multiple hats as a dedicated Software Engineer and IT
                 enthusiast, all while passionately advancing social inclusion
                 and advocacy.
@@ -60,7 +60,7 @@ const about = () => {
 
               <p className="my-4 font-medium">
                 My journey has taken a unique twist, mixing my background in the
-                performing arts with my technical prowess. It's been nothing
+                performing arts with my technical prowess. It&apos;s been nothing
                 short of transformative, blending the creativity of the stage
                 with the analytical power of coding. As I thrive in the
                 spotlight, I envision a world where technology acts as a stage
@@ -68,7 +68,7 @@ const about = () => {
               </p>
 
               <p className="font-medium">
-                When I'm not fixing bugs, you'll find me immersed in passionate
+                When I&apos;m not fixing bugs, you&apos;ll find me immersed in passionate
                 arguments over Anime arcs and taking leisurely strolls with my
                 cat, an excellent walking partner!
               </p>
