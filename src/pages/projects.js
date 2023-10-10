@@ -170,7 +170,7 @@ ensuring an exceptional user experience."
             <div className="col-span-6 sm:col-span-12">
               <Project
                 title="E-Commerce"
-                img={project3}
+                img={project3image}
                 // Come Back Once Site is Deployed.
                 link="https://luxe-looks.netlify.app/"
                 github="https://github.com/dee2314/jollofgood"
