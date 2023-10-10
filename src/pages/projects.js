@@ -160,9 +160,6 @@ ensuring an exceptional user experience."
               <Project
                 title="Restaurant"
                 img={project2}
-                summary="My dynamic portfolio, crafted with Next.js, React, Tailwind CSS, 
-and brought to life with Framer-Motion, exemplifies responsive design principles, 
-ensuring an exceptional user experience."
                 // Come Back Once Site is Deployed.
                 link="https://jollof-good.netlify.app/#"
                 github="https://github.com/dee2314/jollofgood"
@@ -171,20 +168,14 @@ ensuring an exceptional user experience."
             </div>
 
             <div className="col-span-6 sm:col-span-12">
-              {" "}
-              <div className="col-span-6 sm:col-span-12">
-                <Project
-                  title="E-Commerce"
-                  img={project3}
-                  summary="My dynamic portfolio, crafted with Next.js, React, Tailwind CSS, 
-and brought to life with Framer-Motion, exemplifies responsive design principles, 
-ensuring an exceptional user experience."
-                  // Come Back Once Site is Deployed.
-                  link="https://luxe-looks.netlify.app/"
-                  github="https://github.com/dee2314/luxeLooks"
-                  type="Most Recent Project"
-                />
-              </div>
+              <Project
+                title="E-Commerce"
+                img={project3}
+                // Come Back Once Site is Deployed.
+                link="https://luxe-looks.netlify.app/"
+                github="https://github.com/dee2314/jollofgood"
+                type="Most Recent Project"
+              />
             </div>
 
             {/* Use this to display other projects in the order of 'Featured' and 'casual' */}
