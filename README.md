@@ -27,7 +27,7 @@ The lessons learned from this project underscored the significance of blending d
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://jollof-good.netlify.app/#">Jollof Good/a>
+<a target="_blank" href="https://jollof-good.netlify.app/#">Jollof Good</a>
         <br />
       <a target="_blank" href="https://github.com/dee2314/jollofgood">
             <img src="https://media.giphy.com/media/gZc6R5jNzvlKM4zh3V/giphy.gif" width="100%"  alt="Jollof "/>
