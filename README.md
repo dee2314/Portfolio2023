@@ -6,7 +6,7 @@
 
 ### My portfolio site with links to other projects and other ways to get into contact with me!
 
-## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=9851F7&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=9851F7&style=plastic&logo=css3)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=9851F7&style=plastic&logo=react)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=9851F7&style=plastic&logo=javascript)![NODE.JS BADGE](https://img.shields.io/static/v1?label=|&message=NODE.JS&color=9851F7&style=plastic&logo=node.js)
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=9851F7&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=9851F7&style=plastic&logo=css3)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=9851F7&style=plastic&logo=react)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=9851F7&style=plastic&logo=javascript)
 
 My primary emphasis for this portfolio was enabling users to effortlessly switch to a sleek and eye-friendly dark mode.
 
