@@ -55,13 +55,12 @@ const about = () => {
                 Hey there, I&apos;m Dee! After surviving two bone-chilling Midwestern
                 winters, I&apos;ve earned my stripes as an official Chicago native. I
                 wear multiple hats as a dedicated Software Engineer and IT
-                enthusiast, all while passionately advancing social inclusion
-                and advocacy.
+                enthusiast.
               </p>
 
               <p className="my-4 font-medium">
                 My journey has taken a unique twist, mixing my background in the
-                performing arts with my technical prowess. It&apos;s been nothing
+                performing arts and writing with my technical prowess. It&apos;s been nothing
                 short of transformative, blending the creativity of the stage
                 with the analytical power of coding. As I thrive in the
                 spotlight, I envision a world where technology acts as a stage

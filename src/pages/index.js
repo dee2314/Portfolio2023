@@ -39,13 +39,13 @@ export default function Home() {
           "
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                Technology and its impact affect all, regardless of
-                accessibility. My mission is to apply my full-stack development
-                skills to open doors that have been closed for too long.
+              The influence of technology is universal, impacting everyone irrespective of accessibility. 
+              My goal is to utilize my full-stack development skills
+              to bridge the digital divide and create opportunities for advancements accessible to all.
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
-                  href="/CV-Dee Richards.pdf"
+                  href="/_CV_Dee_Richards.pdf"
                   target="_blank"
                   className="flex items-center bg-dark text-light p-2.5 px-6
             rounded-lg text-lg font-semibold hover:bg-light hover:text-dark

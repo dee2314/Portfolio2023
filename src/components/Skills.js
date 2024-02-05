@@ -42,14 +42,14 @@ const Skills = () => {
         <Skill name ="CSS" x="-5vw" y="-10vw"/>
         <Skill name ="HTML5" x="-22vw" y="15vw"/>
         <Skill name ="JavaScript" x="20vw" y="2vw"/>
-        <Skill name ="ReactJS" x="0vw" y="12vw"/>
-        <Skill name ="NodeJS" x="-20vw" y="-15vw"/>
+        <Skill name ="Customer Service" x="0vw" y="12vw"/>
+        <Skill name ="IT Operations" x="-20vw" y="-15vw"/>
         <Skill name ="Git" x="15vw" y="-12vw"/>
-        <Skill name ="MongoDB" x="32vw" y="-9vw"/>
+        <Skill name ="MS Office" x="32vw" y="-9vw"/>
         <Skill name ="OS Systems" x="0vw" y="-20vw"/>
-        <Skill name ="Linux" x="-30vw" y="0vw"/>
+        <Skill name ="CRM" x="-30vw" y="0vw"/>
         <Skill name ="TCP/IP" x="18vw" y="14vw"/>
-        <Skill name ="Bash" x="10vw" y="23vw"/>
+        <Skill name ="Slack" x="10vw" y="23vw"/>
 
 
         </div>

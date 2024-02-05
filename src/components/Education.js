@@ -45,11 +45,12 @@ const Education = () => {
 
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
-            type="Bachelor Of Fine Arts"
+            type="Bachelor Of Communications and Media"
             time="2017-2021"
             place="Marquette University"
-            info="Fostering creativity and visual communication skills. Invaluable for 
-                designing user-friendly interfaces and creating engaging multimedia content in the digital world."
+            info="Fostering creativity and visual communication skills is invaluable for designing user-friendly interfaces and 
+            creating engaging multimedia content in the digital world, 
+            complemented by proficiency in technical writing and creative flow."
           />
             <Details
             type="Bachelor Of Arts - Sociology"
@@ -57,15 +58,6 @@ const Education = () => {
             place="Marquette University"
             info="Deep understanding of human behavior and societal dynamics, 
             crucial for designing technology that aligns with ethical and social considerations."
-          />
-
-<Details
-            type="Bachelor Of Exercise Science - Exercise Physiology"
-            time="2017-2021"
-            place="Marquette University"
-            info="Understanding of human physiology and health, 
-            valuable for developing technology solutions for healthcare and fitness applications, 
-            such as wearable devices and health monitoring systems."
           />
         </ul>
       </div>

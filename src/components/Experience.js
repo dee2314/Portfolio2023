@@ -52,30 +52,37 @@ md:w-[2px] md:left-[30px] xs:left-[20px]
 '/>
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                 <Details 
-position="Full Stack Software Engineer" company="100devs"
+position="Information Technology Services Specialist" company="Card Concepts Inc. (CCI)"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
-time="2022-Present" address="Chicago, IL (Remote)"
-work="Collaborating with multifaceted teams to construct applications and engineer tools aimed at simplifying everyday decision-making for users.
-Crafting applications utilizing the MERN stack (comprising MongoDB, Express, React, and Node.js) to create robust and dynamic software solutions.
-Assisting enterprises in establishing a formidable online presence and enhancing their digital brand identity. "
+time="2024-Present" address="(Remote)"
+work="
+Collaborated with satellite operations and cloud networking to boost reader product functionality, achieving a 15% UX improvement. 
+Conducted daily tasks including troubleshooting and installations. Optimized product performance for a 25% efficiency increase. 
+Streamlined technical sales orders, reducing processing time by 30%. 
+Played a key role in client relationship building and contributed to a 15% reduction in user interface lag within a technician team. "
                    
                    />
  <Details 
-position="Software Engineer" company="Freelance"
+position="Full Stack Software Engineer" company="100Devs"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
-time="2022-Present" address="Chicago, IL (Remote)"
-work="Tailoring software solutions to meet each client's unique needs and objectives, ensuring that the final product aligns perfectly with their business goals.
-intaining open and transparent communication with clients throughout the project lifecycle.
-Consistently delivering high-quality projects on or ahead of schedule, demonstrating a commitment to meeting deadlines and exceeding client expectations. "
+time="2022-2023" address="Chicago, IL (Remote)"
+work="Collaborating with multifaceted teams to construct applications and engineer tools aimed at simplifying 
+everyday decision-making for users.
+Crafting applications utilizing the MERN stack (comprising MongoDB, Express, React, and Node.js) 
+to create robust and dynamic software solutions.
+Assisting enterprises in establishing a formidable online presence and enhancing their digital brand identity.. "
                    
                    />
  <Details 
-position="Technical Support Specialist" company="Marquette University"
+position="Technical Support Specialist/Technical Writer" company="Marquette University"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
-time="2017- 2021" address="Milwaukee, WI (Hybrid)"
-work="Providing essential technical support to students, utilizing Linux, BMC Remedy Ticketing System, and Knowledge-Based Software.
-Troubleshooting and resolving hardware/software issues promptly to ensure smooth operations.
-Ensuring network security and efficient computer imaging to enhance campus computing reliability."
+time="2017-2021" address="Milwaukee, WI (Hybrid)"
+work="Delivering vital technical support to students using Linux, BMC Remedy Ticketing System, and Knowledge-Based Software. 
+Swiftly resolving hardware/software issues for seamless operations. 
+Ensuring network security and optimizing computer imaging for reliable campus computing. 
+Proficient in industry-standard style guides, crafting and editing clear technical documentation for diverse projects,
+ maintaining a consistent and professional tone.
+"
                    
                    />
                 </ul>
