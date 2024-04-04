@@ -52,14 +52,19 @@ md:w-[2px] md:left-[30px] xs:left-[20px]
 '/>
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                 <Details 
-position="Information Technology Services Specialist" company="Card Concepts Inc. (CCI)"
+position="Information Technology Technical Specialist" company="Honest Networks"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2024-Present" address="(Remote)"
 work="
-Collaborated with satellite operations and cloud networking to boost reader product functionality, achieving a 15% UX improvement. 
-Conducted daily tasks including troubleshooting and installations. Optimized product performance for a 25% efficiency increase. 
-Streamlined technical sales orders, reducing processing time by 30%. 
-Played a key role in client relationship building and contributed to a 15% reduction in user interface lag within a technician team. "
+In my current role, I provide expert technical support, specializing in resolving network-related issues for both LAN and WAN connectivity. 
+With a keen focus on efficiency, I tackle routing issues swiftly to maintain seamless data flow within our networks. 
+Collaborating closely with clients, I coordinate installations and managed concierge projects, 
+ensuring timely completion and smooth deployment of network infrastructure. By implementing innovative solutions, 
+I significantly enhanced network performance and reliability, consistently earning high satisfaction rates. 
+Managing a high volume of tickets, I exceeded service level agreements through adept use of advanced diagnostic tools and meticulous 
+documentation of troubleshooting processes. Conducting comprehensive network assessments, 
+I pinpointed areas for optimization and proactively monitored network health, taking preemptive measures to prevent downtime. 
+ "
                    
                    />
  <Details 
