@@ -79,7 +79,7 @@ Assisting enterprises in establishing a formidable online presence and enhancing
                    
                    />
  <Details 
-position="Technical Support Specialist/Technical Writer" company="Marquette University"
+position="Customer Success Support Specialist/Technical Writer" company="Marquette University"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2017-2021" address="Milwaukee, WI (Hybrid)"
 work="Delivering vital technical support to students using Linux, BMC Remedy Ticketing System, and Knowledge-Based Software. 
