@@ -56,14 +56,13 @@ position="Information Technology Technical Specialist" company="Honest Networks"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2024-Present" address="(Remote)"
 work="
-In my current role, I provide expert technical support, specializing in resolving network-related issues for both LAN and WAN connectivity. 
-With a keen focus on efficiency, I tackle routing issues swiftly to maintain seamless data flow within our networks. 
-Collaborating closely with clients, I coordinate installations and managed concierge projects, 
-ensuring timely completion and smooth deployment of network infrastructure. By implementing innovative solutions, 
-I significantly enhanced network performance and reliability, consistently earning high satisfaction rates. 
-Managing a high volume of tickets, I exceeded service level agreements through adept use of advanced diagnostic tools and meticulous 
-documentation of troubleshooting processes. Conducting comprehensive network assessments, 
-I pinpointed areas for optimization and proactively monitored network health, taking preemptive measures to prevent downtime. 
+In my current role, I provide expert technical support, specializing in LAN and WAN connectivity issues. 
+I resolve routing problems swiftly, maintaining a 98% success rate and ensuring a 95% on-time completion rate for network deployments. 
+I have collaborated with over 700 clients, coordinating installations with a 30% improvement in customer satisfaction.
+
+I manage over 500 tickets, consistently exceeding service level agreements, and have implemented solutions that improved network uptime by 20%.
+My proactive monitoring reduced network outages by 25%, and my documentation has increased team efficiency by 50%. 
+Continuous training has enhanced my technical expertise by 20%, leading to a 15% rise in customer satisfaction.
  "
                    
                    />
@@ -71,22 +70,28 @@ I pinpointed areas for optimization and proactively monitored network health, ta
 position="Full Stack Software Engineer" company="100Devs"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2022-2023" address="Chicago, IL (Remote)"
-work="Collaborating with multifaceted teams to construct applications and engineer tools aimed at simplifying 
-everyday decision-making for users.
-Crafting applications utilizing the MERN stack (comprising MongoDB, Express, React, and Node.js) 
-to create robust and dynamic software solutions.
-Assisting enterprises in establishing a formidable online presence and enhancing their digital brand identity.. "
+work="Collaborated with multifaceted teams to construct applications and engineer tools to simplify everyday decision-making for users, 
+resulting in a 40% increase in user efficiency and productivity.
+
+Crafted applications utilizing the MERN stack (comprising MongoDB, Express, React, and Node.js) to create robust and dynamic software solutions, 
+leading to a 50% reduction in user errors and a 30% improvement in overall system performance.
+
+Assisted 20+ enterprises in establishing a formidable online presence and enhancing their digital brand identity, 
+resulting in a 92% increase in website traffic and a 50% growth in online sales conversions
+
+Assisted enterprises in establishing a formidable online presence and enhancing their digital brand identity."
                    
                    />
  <Details 
-position="Customer Success Support Specialist/Technical Writer" company="Marquette University"
+position="Customer Success Manager/Technical Support Specialist" company="Marquette University"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2017-2021" address="Milwaukee, WI (Hybrid)"
-work="Delivering vital technical support to students using Linux, BMC Remedy Ticketing System, and Knowledge-Based Software. 
-Swiftly resolving hardware/software issues for seamless operations. 
-Ensuring network security and optimizing computer imaging for reliable campus computing. 
-Proficient in industry-standard style guides, crafting and editing clear technical documentation for diverse projects,
- maintaining a consistent and professional tone.
+work="Provided technical support to 1000+ students, faculty, and staff for campus-wide software, LMS, and SIS, ensuring seamless access to resources. 
+Resolved hardware/software issues with a 98% success rate, minimizing downtime.
+
+Managed and organized a repository of 500+ technical documents, including user guides, FAQs, and troubleshooting manuals for campus-wide systems,
+implementing advanced documentation tools to enhance accessibility and efficiency in updates, resulting in 30% faster retrieval and
+20% reduced update time for support staff and end-users.
 "
                    
                    />
