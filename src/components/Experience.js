@@ -56,13 +56,16 @@ position="Information Technology Technical Specialist" company="Honest Networks"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2024-Present" address="(Remote)"
 work="
-In my current role, I provide expert technical support, specializing in LAN and WAN connectivity issues. 
-I resolve routing problems swiftly, maintaining a 98% success rate and ensuring a 95% on-time completion rate for network deployments. 
-I have collaborated with over 700 clients, coordinating installations with a 30% improvement in customer satisfaction.
+Managed a portfolio of 500+ active client accounts, achieving a 95% on-time completion rate for network infrastructure deployments.
+This streamlined project execution and increased client satisfaction by 40%.
+Developed a proactive customer support strategy, achieving a 95% resolution rate for customer inquiries within 24 hours.
+This led to a 20% increase in customer loyalty and retention.
 
-I manage over 500 tickets, consistently exceeding service level agreements, and have implemented solutions that improved network uptime by 20%.
-My proactive monitoring reduced network outages by 25%, and my documentation has increased team efficiency by 50%. 
-Continuous training has enhanced my technical expertise by 20%, leading to a 15% rise in customer satisfaction.
+Established a comprehensive knowledge base through documented troubleshooting processes and solutions. 
+This empowered clients to self-serve and reduced support ticket volumes by 30%, improving overall support team efficiency by 50%.
+Reduced network downtime by 25% through proactive network health monitoring and preventive maintenance. 
+This directly contributed to a 20% increase in client productivity and satisfaction.
+Cultivated a culture of continuous learning within the team, facilitating participation in 10+ training sessions. This resulted in a 20% overall improvement in the team's technical expertise and a 15% increase in client satisfaction scores.
  "
                    
                    />
@@ -70,28 +73,28 @@ Continuous training has enhanced my technical expertise by 20%, leading to a 15%
 position="Full Stack Software Engineer" company="100Devs"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2022-2023" address="Chicago, IL (Remote)"
-work="Collaborated with multifaceted teams to construct applications and engineer tools to simplify everyday decision-making for users, 
-resulting in a 40% increase in user efficiency and productivity.
+work="
+Led cross-functional teams in developing applications and tools that streamlined user decision-making processes, 
+boosting user efficiency and productivity by 40%.
+Delivered robust and dynamic software solutions using the MERN stack, resulting in a 50% reduction in user errors 
+and a 30% improvement in overall system performance.
 
-Crafted applications utilizing the MERN stack (comprising MongoDB, Express, React, and Node.js) to create robust and dynamic software solutions, 
-leading to a 50% reduction in user errors and a 30% improvement in overall system performance.
-
-Assisted 20+ enterprises in establishing a formidable online presence and enhancing their digital brand identity, 
-resulting in a 92% increase in website traffic and a 50% growth in online sales conversions
-
-Assisted enterprises in establishing a formidable online presence and enhancing their digital brand identity."
+Partnered with over 100 enterprises to establish a strong online presence and enhance their digital brand identity. 
+This strategy led to a 100% increase in website traffic and a 50% growth in online sales conversions.
+"
                    
                    />
  <Details 
 position="Customer Success Manager/Technical Support Specialist" company="Marquette University"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2017-2021" address="Milwaukee, WI (Hybrid)"
-work="Provided technical support to 1000+ students, faculty, and staff for campus-wide software, LMS, and SIS, ensuring seamless access to resources. 
-Resolved hardware/software issues with a 98% success rate, minimizing downtime.
+work="Spearheaded technical support for a vibrant academic community exceeding 1,500 students, faculty, and staff. Resolved 98% of hardware/software issues on the first attempt, minimizing downtime and ensuring uninterrupted access to critical learning resources. 
 
-Managed and organized a repository of 500+ technical documents, including user guides, FAQs, and troubleshooting manuals for campus-wide systems,
-implementing advanced documentation tools to enhance accessibility and efficiency in updates, resulting in 30% faster retrieval and
-20% reduced update time for support staff and end-users.
+This resulted in a 25% decrease in support ticket volume within a year, showcasing the effectiveness of proactive troubleshooting and user empowerment.
+Developed and implemented a comprehensive, user-friendly knowledge base strategy for a community surpassing 1,000 users. 
+
+This initiative empowered users with self-service capabilities, leading to a 35% faster retrieval of information and a 20% reduction in update time for support staff. This translated to a 15% increase in overall user satisfaction with IT services.
+Championed a collaborative approach to technical support, fostering strong relationships with departmental IT liaisons across various academic departments. This streamlined communication and issue resolution, resulting in a 90% reduction in escalated technical support tickets within two years.
 "
                    
                    />
