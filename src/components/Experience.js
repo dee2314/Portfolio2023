@@ -56,16 +56,13 @@ position="Information Technology Technical Specialist" company="Honest Networks"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2024-Present" address="(Remote)"
 work="
-Managed a portfolio of 500+ active client accounts, achieving a 95% on-time completion rate for network infrastructure deployments.
-This streamlined project execution and increased client satisfaction by 40%.
-Developed a proactive customer support strategy, achieving a 95% resolution rate for customer inquiries within 24 hours.
-This led to a 20% increase in customer loyalty and retention.
+Managed a portfolio of 500+ active client accounts, overseeing end-to-end network infrastructure deployments with a 95% on-time completion rate.
+ Introduced a proactive customer support strategy that resolved 95% of inquiries within 24 hours, leading to a 20% boost in client retention.
 
-Established a comprehensive knowledge base through documented troubleshooting processes and solutions. 
-This empowered clients to self-serve and reduced support ticket volumes by 30%, improving overall support team efficiency by 50%.
-Reduced network downtime by 25% through proactive network health monitoring and preventive maintenance. 
-This directly contributed to a 20% increase in client productivity and satisfaction.
-Cultivated a culture of continuous learning within the team, facilitating participation in 10+ training sessions. This resulted in a 20% overall improvement in the team's technical expertise and a 15% increase in client satisfaction scores.
+Reduced network downtime by 25% through continuous health monitoring and preventive maintenance, directly improving client productivity. 
+Authored a comprehensive knowledge base, empowering clients to self-serve and cutting support tickets by 30%. This improved overall team efficiency by 50%.
+
+Fostered a culture of continuous learning by organizing 10+ technical training sessions, which enhanced team expertise and drove a 15% rise in client satisfaction scores.
  "
                    
                    />
@@ -74,13 +71,10 @@ position="Full Stack Software Engineer" company="100Devs"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2022-2023" address="Chicago, IL (Remote)"
 work="
-Led cross-functional teams in developing applications and tools that streamlined user decision-making processes, 
-boosting user efficiency and productivity by 40%.
-Delivered robust and dynamic software solutions using the MERN stack, resulting in a 50% reduction in user errors 
-and a 30% improvement in overall system performance.
-
-Partnered with over 100 enterprises to establish a strong online presence and enhance their digital brand identity. 
-This strategy led to a 100% increase in website traffic and a 50% growth in online sales conversions.
+Led cross-functional teams to design and launch applications that simplified decision-making and significantly enhanced user efficiency. 
+By leveraging the MERN stack, delivered scalable software solutions that reduced user errors by half and improved system performance by 30%. 
+Collaborated with over 100 enterprises to elevate their digital presence, doubling website traffic and driving a 
+50% increase in online sales conversions.
 "
                    
                    />
@@ -88,13 +82,12 @@ This strategy led to a 100% increase in website traffic and a 50% growth in onli
 position="Customer Success Manager/Technical Support Specialist" company="Marquette University"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2017-2021" address="Milwaukee, WI (Hybrid)"
-work="Spearheaded technical support for a vibrant academic community exceeding 1,500 students, faculty, and staff. Resolved 98% of hardware/software issues on the first attempt, minimizing downtime and ensuring uninterrupted access to critical learning resources. 
+work="
+Provided technical support for an academic community of over 1,500 students, faculty, and staff, resolving over 95% of hardware and software issues on first contact—minimizing downtime and ensuring consistent access to learning resources. This proactive approach contributed to a 20% reduction in support ticket volume within a year.
 
-This resulted in a 25% decrease in support ticket volume within a year, showcasing the effectiveness of proactive troubleshooting and user empowerment.
-Developed and implemented a comprehensive, user-friendly knowledge base strategy for a community surpassing 1,000 users. 
+Developed and implemented a user-friendly knowledge base for 1,000+ users, improving information retrieval speed by around 30% and easing the workload for support staff, which boosted overall user satisfaction.
 
-This initiative empowered users with self-service capabilities, leading to a 35% faster retrieval of information and a 20% reduction in update time for support staff. This translated to a 15% increase in overall user satisfaction with IT services.
-Championed a collaborative approach to technical support, fostering strong relationships with departmental IT liaisons across various academic departments. This streamlined communication and issue resolution, resulting in a 90% reduction in escalated technical support tickets within two years.
+Collaborated closely with departmental IT liaisons to streamline communication and issue resolution, leading to an 80% decrease in escalated support tickets over two years.
 "
                    
                    />
