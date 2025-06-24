@@ -90,13 +90,7 @@ const NavBar = () => {
         whileTap={{scale:0.9}}
         className="w-6 mx-3 sm:mx-1"
         >
-          <TwitterIcon />
-        </motion.a>
-        <motion.a href="https://github.com/dee2314" target={"_blank"}
-         whileHover={{ y:-2 }}
-         whileTap={{scale:0.9}}
-         className="w-6 mx-3 sm:mx-1"
-        >
+          
           <GithubIcon />
         </motion.a>
         <motion.a href="https://www.linkedin.com/in/dee-richards/" target={"_blank"}

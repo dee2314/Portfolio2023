@@ -39,17 +39,17 @@ const Skills = () => {
         Web
         </motion.div>
 
-        <Skill name ="CSS" x="-5vw" y="-10vw"/>
-        <Skill name ="HTML5" x="-22vw" y="15vw"/>
+        <Skill name ="Data Reporting" x="-5vw" y="-10vw"/>
+        <Skill name ="IT Networking" x="-22vw" y="15vw"/>
         <Skill name ="JavaScript" x="20vw" y="2vw"/>
         <Skill name ="Customer Service" x="0vw" y="12vw"/>
         <Skill name ="IT Operations" x="-20vw" y="-15vw"/>
-        <Skill name ="Git" x="15vw" y="-12vw"/>
+        <Skill name ="System Admin" x="15vw" y="-12vw"/>
         <Skill name ="MS Office" x="32vw" y="-9vw"/>
         <Skill name ="OS Systems" x="0vw" y="-20vw"/>
         <Skill name ="CRM" x="-30vw" y="0vw"/>
         <Skill name ="TCP/IP" x="18vw" y="14vw"/>
-        <Skill name ="Slack" x="10vw" y="23vw"/>
+        <Skill name ="Project Management" x="10vw" y="23vw"/>
 
 
         </div>
