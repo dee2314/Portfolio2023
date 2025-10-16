@@ -79,7 +79,7 @@ Collaborated with over 100 enterprises to elevate their digital presence, doubli
                    
                    />
  <Details 
-position="Customer Operations Manager/Technical Support Specialist" company="Marquette University"
+position="Client Operations Manager/Technical Support Specialist" company="Marquette University"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2017-2021" address="Milwaukee, WI (Hybrid)"
 work="
