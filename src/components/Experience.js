@@ -56,9 +56,13 @@ position="Client Operations Manager" company="Ready Education"
 // companyLink="www.readyeducation.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2023-2025" address="(Full Time-Remote)"
 work="
-Led client operations for 90+ higher-ed partnerships, driving SaaS platform adoption and long-term engagement with a 96% satisfaction rate.
-Improved client onboarding efficiency by 35% through cross-team collaboration with product, engineering, and leadership.
-Supported strategic restructuring and executive-level initiatives, ensuring operational stability and client retention during company transition.
+Led client operations for 90+ higher-ed partnerships, driving adoption and long-term engagement of the SaaS platform while maintaining a 96% client satisfaction rate, ensuring all stakeholders had a seamless experience.
+
+Improved client onboarding efficiency by 35% through cross-team collaboration with product, engineering, and leadership, streamlining workflows and reducing average implementation time from weeks to days.
+
+Managed escalations and complex system integrations across CRM, LMS, and SIS platforms, resolving critical issues quickly and maintaining operational continuity during rapid organizational changes.Supported strategic restructuring and executive-level initiatives, working closely with VP-level stakeholders to optimize processes, drive retention, and maintain business stability during a company-wide transition.
+
+Recognized for high-impact problem-solving and adaptability in a startup environment, introducing process improvements that increased team efficiency and strengthened client relationships.
 "
 />              
                 <Details 
@@ -82,7 +86,9 @@ position="Full Stack Software Engineer" company="100Devs"
 time="2021-2023" address="Chicago, IL (Full Time-Remote)"
 work="
 Led cross-functional teams to design and launch applications that simplified decision-making and significantly enhanced user efficiency. 
+
 By leveraging the MERN stack, delivered scalable software solutions that reduced user errors by half and improved system performance by 30%. 
+
 Collaborated with over 100 enterprises to elevate their digital presence, doubling website traffic and driving a 
 50% increase in online sales conversions.
 "
