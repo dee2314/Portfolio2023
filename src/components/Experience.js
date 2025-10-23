@@ -50,11 +50,21 @@ style={{scaleY: scrollYProgress}}
 className='absolute left-9 top-0 w-[4px] h-full bg-dark origin-top dark:bg-light
 md:w-[2px] md:left-[30px] xs:left-[20px]
 '/>
-                <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
+                <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>  
+                <Details 
+position="Client Operations Manager" company="Ready Education"
+// companyLink="www.readyeducation.com" //IF YOU WANT TO INCLUDE COMPANY LINK
+time="2023-2025" address="(Full Time-Remote)"
+work="
+Led client operations for 90+ higher-ed partnerships, driving SaaS platform adoption and long-term engagement with a 96% satisfaction rate.
+Improved client onboarding efficiency by 35% through cross-team collaboration with product, engineering, and leadership.
+Supported strategic restructuring and executive-level initiatives, ensuring operational stability and client retention during company transition.
+"
+/>              
                 <Details 
 position="Information Technology Technical Specialist" company="Honest Networks"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
-time="2024-Present" address="(Remote)"
+time="2024-Present" address="(Part Time-Remote)"
 work="
 Managed a portfolio of 500+ active client accounts, overseeing end-to-end network infrastructure deployments with a 95% on-time completion rate.
  Introduced a proactive customer support strategy that resolved 95% of inquiries within 24 hours, leading to a 20% boost in client retention.
@@ -69,7 +79,7 @@ Fostered a culture of continuous learning by organizing 10+ technical training s
  <Details 
 position="Full Stack Software Engineer" company="100Devs"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
-time="2022-2023" address="Chicago, IL (Remote)"
+time="2021-2023" address="Chicago, IL (Full Time-Remote)"
 work="
 Led cross-functional teams to design and launch applications that simplified decision-making and significantly enhanced user efficiency. 
 By leveraging the MERN stack, delivered scalable software solutions that reduced user errors by half and improved system performance by 30%. 
@@ -78,10 +88,11 @@ Collaborated with over 100 enterprises to elevate their digital presence, doubli
 "
                    
                    />
+
  <Details 
 position="Client Operations Manager/Technical Support Specialist" company="Marquette University"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
-time="2017-2021" address="Milwaukee, WI (Hybrid)"
+time="2017-2021" address="Milwaukee, WI (Full Time-Hybrid)"
 work="
 Provided technical support for an academic community of over 1,500 students, faculty, and staff, resolving over 95% of hardware and software issues on first contact—minimizing downtime and ensuring consistent access to learning resources. This proactive approach contributed to a 20% reduction in support ticket volume within a year.
 
