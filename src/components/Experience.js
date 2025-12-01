@@ -83,7 +83,7 @@ Fostered a culture of continuous learning by organizing 10+ technical training s
  <Details 
 position="Full Stack Software Engineer" company="100Devs"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
-time="2021-2023" address="Chicago, IL (Full Time-Remote)"
+time="2021-2022" address="Chicago, IL (Full Time-Remote)"
 work="
 Led cross-functional teams to design and launch applications that simplified decision-making and significantly enhanced user efficiency. 
 
