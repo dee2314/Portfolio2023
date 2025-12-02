@@ -68,7 +68,7 @@ Recognized for high-impact problem-solving and adaptability in a startup environ
                 <Details 
 position="Information Technology Technical Specialist" company="Honest Networks"
 // companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
-time="2024-Present" address="(Part Time-Remote)"
+time="2023-Present" address="(Part Time-Remote)"
 work="
 Managed a portfolio of 500+ active client accounts, overseeing end-to-end network infrastructure deployments with a 95% on-time completion rate.
  Introduced a proactive customer support strategy that resolved 95% of inquiries within 24 hours, leading to a 20% boost in client retention.
