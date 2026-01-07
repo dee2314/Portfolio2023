@@ -85,7 +85,7 @@ const NavBar = () => {
       </nav>
 
       <nav className="flex items-center justify-center flex-wrap-reverse mt-2">
-        <motion.a href="https://twitter.com/Deviantsdd" target={"_blank"}
+        <motion.a href="https://github.com/dee2314" target={"_blank"}
         whileHover={{ y:-2 }}
         whileTap={{scale:0.9}}
         className="w-6 mx-3 sm:mx-1"
