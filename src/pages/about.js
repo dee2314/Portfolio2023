@@ -55,7 +55,7 @@ const about = () => {
                 Hey there, I&apos;m Dee! After surviving two bone-chilling Midwestern
                 winters, I&apos;ve earned my stripes as an official Chicago native. I
                 wear multiple hats as a dedicated IT Professional and Customer Success
-                enthusiast.
+                enthusiast!
               </p>
 
               <p className="my-4 font-medium">
@@ -69,7 +69,7 @@ const about = () => {
               <p className="font-medium">
                 When I&apos;m not fixing bugs, you&apos;ll find me immersed in passionate
                 arguments over Anime arcs and taking leisurely strolls with my
-                cat, an excellent walking partner!
+                cat!
               </p>
             </div>
 
