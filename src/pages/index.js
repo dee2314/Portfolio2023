@@ -40,7 +40,7 @@ export default function Home() {
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
               The influence of technology is universal, impacting everyone irrespective of accessibility. 
-              My goal is to utilize my full-stack development skills
+              My goal is to utilize my full-stack development and customer success skills
               to bridge the digital divide and create opportunities for advancements accessible to all.
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
