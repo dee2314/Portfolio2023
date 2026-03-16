@@ -42,17 +42,17 @@ const Experience = () => {
             Experience
             </h2>
 
-
             <div ref={ref} className='w-[75%] mx-auto relative lg:w-[90%] md:w-full'>
 
 <motion.div 
 style={{scaleY: scrollYProgress}}
-className='absolute left-[20px] top-0 w-[4px] h-full bg-dark origin-top dark:bg-light
-md:w-[2px] md:left-[15px] xs:left-[10px]'/>
+className='absolute left-9 top-0 w-[4px] h-full bg-dark origin-top dark:bg-light
+md:w-[2px] md:left-[30px] xs:left-[20px]
+'/>
+
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>  
                 <Details 
 position="Client Operations Manager" company="Ready Education"
-// companyLink="www.readyeducation.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2023-2025" address="(Full Time-Remote)"
 work="
 Led client operations for 90+ higher-ed partnerships, driving adoption and long-term engagement of the SaaS platform while maintaining a 96% client satisfaction rate, ensuring all stakeholders had a seamless experience.
@@ -64,24 +64,23 @@ Managed escalations and complex system integrations across CRM, LMS, and SIS pla
 Recognized for high-impact problem-solving and adaptability in a startup environment, introducing process improvements that increased team efficiency and strengthened client relationships.
 "
 />              
+
                 <Details 
 position="Information Technology Technical Specialist" company="Honest Networks"
-// companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2023-Present" address="(Part Time-Remote)"
 work="
 Managed a portfolio of 500+ active client accounts, overseeing end-to-end network infrastructure deployments with a 95% on-time completion rate.
- Introduced a proactive customer support strategy that resolved 95% of inquiries within 24 hours, leading to a 20% boost in client retention.
+Introduced a proactive customer support strategy that resolved 95% of inquiries within 24 hours, leading to a 20% boost in client retention.
 
 Reduced network downtime by 25% through continuous health monitoring and preventive maintenance, directly improving client productivity. 
 Authored a comprehensive knowledge base, empowering clients to self-serve and cutting support tickets by 30%. This improved overall team efficiency by 50%.
 
 Fostered a culture of continuous learning by organizing 10+ technical training sessions, which enhanced team expertise and drove a 15% rise in client satisfaction scores.
  "
-                   
-                   />
+/>
+
  <Details 
 position="Full Stack Software Engineer" company="100Devs"
-// companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2021-2022" address="Chicago, IL (Full Time-Remote)"
 work="
 Led cross-functional teams to design and launch applications that simplified decision-making and significantly enhanced user efficiency. 
@@ -91,12 +90,10 @@ By leveraging the MERN stack, delivered scalable software solutions that reduced
 Collaborated with over 100 enterprises to elevate their digital presence, doubling website traffic and driving a 
 50% increase in online sales conversions.
 "
-                   
-                   />
+/>
 
  <Details 
 position="Client Operations Manager/Technical Support Specialist" company="Marquette University"
-// companyLink="www.company.com" //IF YOU WANT TO INCLUDE COMPANY LINK
 time="2017-2021" address="Milwaukee, WI (Full Time-Hybrid)"
 work="
 Provided technical support for an academic community of over 1,500 students, faculty, and staff, resolving over 95% of hardware and software issues on first contact—minimizing downtime and ensuring consistent access to learning resources. This proactive approach contributed to a 20% reduction in support ticket volume within a year.
@@ -105,8 +102,8 @@ Developed and implemented a user-friendly knowledge base for 1,000+ users, impro
 
 Collaborated closely with departmental IT liaisons to streamline communication and issue resolution, leading to an 80% decrease in escalated support tickets over two years.
 "
-                   
-                   />
+/>
+
                 </ul>
             </div>
         </div>
