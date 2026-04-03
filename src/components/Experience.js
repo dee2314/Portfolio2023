@@ -53,7 +53,7 @@ md:w-[2px] md:left-[30px] xs:left-[20px]
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>  
                 <Details 
 position="Client Operations Manager" company="Ready Education"
-time="2023-2025" address="(Full Time-Remote)"
+time="2022-2025" address="(Full Time-Remote)"
 work="
 Led client operations for 90+ higher-ed partnerships, driving adoption and long-term engagement of the SaaS platform while maintaining a 96% client satisfaction rate, ensuring all stakeholders had a seamless experience.
 
@@ -64,20 +64,6 @@ Managed escalations and complex system integrations across CRM, LMS, and SIS pla
 Recognized for high-impact problem-solving and adaptability in a startup environment, introducing process improvements that increased team efficiency and strengthened client relationships.
 "
 />              
-
-                <Details 
-position="Information Technology Technical Specialist" company="Honest Networks"
-time="2025-Present" address="(Part Time-Remote)"
-work="
-Managed a portfolio of 500+ active client accounts, overseeing end-to-end network infrastructure deployments with a 95% on-time completion rate.
-Introduced a proactive customer support strategy that resolved 95% of inquiries within 24 hours, leading to a 20% boost in client retention.
-
-Reduced network downtime by 25% through continuous health monitoring and preventive maintenance, directly improving client productivity. 
-Authored a comprehensive knowledge base, empowering clients to self-serve and cutting support tickets by 30%. This improved overall team efficiency by 50%.
-
-Fostered a culture of continuous learning by organizing 10+ technical training sessions, which enhanced team expertise and drove a 15% rise in client satisfaction scores.
- "
-/>
 
  <Details 
 position="Full Stack Software Engineer" company="100Devs"
