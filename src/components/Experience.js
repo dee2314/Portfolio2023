@@ -1,3 +1,4 @@
+```jsx
 import React, {useRef} from "react";
 import { motion ,useScroll } from 'framer-motion'
 import LiIcon from "./LiIcon";
@@ -51,42 +52,51 @@ md:w-[2px] md:left-[30px] xs:left-[20px]
 '/>
 
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>  
+
                 <Details 
-position="Client Operations Manager" company="Ready Education"
-time="2022-2025" address="(Full Time-Remote)"
+position="Senior Partner Success Manager" company="Hagerty"
+companyLink="https://www.hagerty.com/"
+time="Dec 2024 - Present" address="Remote"
 work="
-Led client operations for 90+ higher-ed partnerships, driving adoption and long-term engagement of the SaaS platform while maintaining a 96% client satisfaction rate, ensuring all stakeholders had a seamless experience.
+Managed a portfolio of 30 partner accounts, driving account performance, partner engagement, and retention initiatives across the portfolio.
 
-Improved client onboarding efficiency by 35% through cross-team collaboration with product, engineering, and leadership, streamlining workflows and reducing average implementation time from weeks to days.
+Managed ongoing partner communications and escalations, targeting 95%+ partner satisfaction through responsive service, proactive follow-ups, and effective issue resolution.
 
-Managed escalations and complex system integrations across CRM, LMS, and SIS platforms, resolving critical issues quickly and maintaining operational continuity during rapid organizational changes. Supported strategic restructuring and executive-level initiatives, working closely with VP-level stakeholders to optimize processes, drive retention, and maintain business stability during a company-wide transition.
+Conducted regular account performance reviews, identifying growth opportunities and developing action plans designed to increase partner engagement and account value by 10–15%.
 
-Recognized for high-impact problem-solving and adaptability in a startup environment, introducing process improvements that increased team efficiency and strengthened client relationships.
-"
-/>              
-
- <Details 
-position="Full Stack Software Engineer" company="100Devs"
-time="2021-2022" address="Chicago, IL (Full Time-Remote)"
-work="
-Led cross-functional teams to design and launch applications that simplified decision-making and significantly enhanced user efficiency. 
-
-By leveraging the MERN stack, delivered scalable software solutions that reduced user errors by half and improved system performance by 30%. 
-
-Collaborated with over 100 enterprises to elevate their digital presence, doubling website traffic and driving a 
-50% increase in online sales conversions.
+Collaborated cross-functionally with internal teams to streamline issue resolution and improve operational efficiency, targeting a 20% reduction in resolution time.
 "
 />
 
- <Details 
-position="Client Operations Manager/Technical Support Specialist" company="Marquette University"
-time="2017-2021" address="Milwaukee, WI (Full Time-Hybrid)"
+                <Details 
+position="Client Operations Manager" company="Ready Education"
+companyLink="https://www.readyeducation.com/"
+time="Feb 2022 - Oct 2024" address="Remote"
 work="
-Provided technical support for an academic community of over 1,500 students, faculty, and staff, resolving over 95% of hardware and software issues on first contact—minimizing downtime and ensuring consistent access to learning resources. This proactive approach contributed to a 20% reduction in support ticket volume within a year.
+Owned a portfolio of 90+ SaaS clients, driving renewals, expansion, and long-term account growth across mid-market and enterprise segments.
 
-Developed and implemented a user-friendly knowledge base for 1,000+ users, improving information retrieval speed by around 30% and easing the workload for support staff, which boosted overall user satisfaction.
+Developed and executed onboarding and adoption strategies, improving customer engagement and achieving a 96% satisfaction rate.
 
-Collaborated closely with departmental IT liaisons to streamline communication and issue resolution, leading to an 80% decrease in escalated support tickets over two years.
+Partnered cross-functionally with Sales and Product to identify expansion opportunities and influence product improvements based on client feedback.
+
+Built repeatable engagement workflows and proactive outreach strategies to strengthen retention and increase pipeline consistency.
+
+Acted as a strategic advisor to client stakeholders, aligning platform capabilities with business goals to drive measurable outcomes.
+"
+/>
+
+                <Details 
+position="Full Stack Software Engineer" company="100Devs"
+companyLink="https://leonnoel.com/100devs/"
+time="Feb 2021 - Dec 2022" address="Remote"
+work="
+Collaborated with interdisciplinary teams to develop applications and tools, enhancing user decision-making processes and resulting in a 40% increase in user engagement.
+
+Managed a portfolio of key client accounts, exceeding retention goals by 15% through proactive communication, problem-solving, and exceeding client expectations.
+
+Implemented strategic software engineering solutions to improve user experience and functionality, resulting in a 25% decrease in user complaints.
+
+Troubleshot technical issues and implemented scalable solutions to improve product performance and reliability.
 "
 />
 
@@ -97,3 +107,4 @@ Collaborated closely with departmental IT liaisons to streamline communication a
 }
 
 export default Experience
+```
