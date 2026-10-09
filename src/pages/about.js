@@ -52,10 +52,15 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Hey there, I&apos;m Dee! After surviving two bone-chilling Midwestern
-                winters, I&apos;ve earned my stripes as an official Chicago native. I
-                wear multiple hats as a dedicated IT Professional and Customer Success
-                enthusiast!
+Hey there, I&apos;m Dee! A Chicago adoptee, so you know I&apos;ve got grit, 
+resourcefulness, and a lot's of Midwestern charm. I&apos;m a multifaceted professional 
+who bridges the gap between technology, business, and people. 
+With experience in SaaS client operations, partner success, technical support, and 
+software development, 
+I specialize in turning complex challenges into seamless experiences, 
+building lasting relationships, and finding smarter ways to work. 
+Whether I&apos;m driving client engagement or 
+solving technical problems, I bring a strategic mindset with apassion for making things work better.
               </p>
 
               <p className="my-4 font-medium">
@@ -68,8 +73,7 @@ const about = () => {
 
               <p className="font-medium">
                 When I&apos;m not fixing bugs, you&apos;ll find me immersed in passionate
-                arguments over Anime arcs and taking leisurely strolls with my
-                cat!
+                arguments about the best Spiderman movie, or exploring the latest tech trendss.
               </p>
             </div>
 
