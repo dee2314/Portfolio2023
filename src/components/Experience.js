@@ -79,7 +79,24 @@ Managed escalations and complex system integrations across CRM, LMS, and SIS pla
 
 Recognized for high-impact problem-solving and adaptability in a startup environment, introducing process improvements that increased team efficiency and strengthened client relationships.
 "
-/>              
+/>        
+
+<Details 
+position="Full Stack Software Engineer" company="100Devs"
+companyLink="https://leonnoel.com/100devs/"
+time="Feb 2021 - Dec 2022" address="Remote"
+work="
+Collaborated with interdisciplinary teams to develop applications and tools, enhancing user decision-making processes and resulting in a 40% increase in user engagement.
+
+Managed a portfolio of key client accounts, exceeding retention goals by 15% through proactive communication, problem-solving, and exceeding client expectations.
+
+Implemented strategic software engineering solutions to improve user experience and functionality, resulting in a 25% decrease in user complaints.
+
+Troubleshot technical issues and implemented scalable solutions to improve product performance and reliability.
+"
+/>
+
+
 
 
                 </ul>
