@@ -65,18 +65,6 @@ Recognized for high-impact problem-solving and adaptability in a startup environ
 "
 />              
 
- <Details 
-position="Full Stack Software Engineer" company="100Devs"
-time="2021-2022" address="Chicago, IL (Full Time-Remote)"
-work="
-Led cross-functional teams to design and launch applications that simplified decision-making and significantly enhanced user efficiency. 
-
-By leveraging the MERN stack, delivered scalable software solutions that reduced user errors by half and improved system performance by 30%. 
-
-Collaborated with over 100 enterprises to elevate their digital presence, doubling website traffic and driving a 
-50% increase in online sales conversions.
-"
-/>
 
                 </ul>
             </div>
