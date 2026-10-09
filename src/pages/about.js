@@ -73,7 +73,7 @@ solving technical problems, I bring a strategic mindset with a passion for makin
 
               <p className="font-medium">
                 When I&apos;m not fixing bugs, you&apos;ll find me immersed in passionate
-                arguments about the best Spiderman movie, or exploring the latest tech trendss.
+                arguments about the best Spiderman movie, or exploring the latest tech trends.
               </p>
             </div>
 

@@ -39,17 +39,17 @@ const Skills = () => {
         Web
         </motion.div>
 
-        <Skill name ="Data Reporting" x="-5vw" y="-10vw"/>
-        <Skill name ="IT Networking" x="-22vw" y="15vw"/>
-        <Skill name ="JavaScript" x="20vw" y="2vw"/>
-        <Skill name ="Customer Service" x="0vw" y="12vw"/>
-        <Skill name ="IT Operations" x="-20vw" y="-15vw"/>
-        <Skill name ="System Admin" x="15vw" y="-12vw"/>
-        <Skill name ="MS Office" x="32vw" y="-9vw"/>
-        <Skill name ="OS Systems" x="0vw" y="-20vw"/>
-        <Skill name ="CRM" x="-30vw" y="0vw"/>
-        <Skill name ="TCP/IP" x="18vw" y="14vw"/>
-        <Skill name ="Project Management" x="10vw" y="23vw"/>
+        <Skill name ="Data Validation" x="-5vw" y="-10vw"/>
+        <Skill name ="Technical Account Management" x="-22vw" y="15vw"/>
+        <Skill name ="Data-Driven Decisions" x="20vw" y="2vw"/>
+        <Skill name ="Partner Success" x="0vw" y="12vw"/>
+        <Skill name ="Operational Excellence" x="-20vw" y="-15vw"/>
+        <Skill name ="Escalation Management" x="15vw" y="-12vw"/>
+        <Skill name ="Revenue Retention" x="32vw" y="-9vw"/>
+        <Skill name ="SaaS Platforms" x="0vw" y="-20vw"/>
+        <Skill name ="CRM & Customer Insights" x="-30vw" y="0vw"/>
+        <Skill name ="Technical Troubleshooting" x="18vw" y="14vw"/>
+        <Skill name ="Cross-Functional Leadership" x="10vw" y="23vw"/>
 
 
         </div>
