@@ -51,9 +51,25 @@ md:w-[2px] md:left-[30px] xs:left-[20px]
 '/>
 
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>  
+
+<Details 
+position="Senior Partner Success Manager" company="Hagerty"
+companyLink="https://www.hagerty.com/"
+time="Dec 2024 - Present" address="Remote"
+work="
+Managed a portfolio of 30 partner accounts, driving account performance, partner engagement, and retention initiatives across the portfolio.
+
+Managed ongoing partner communications and escalations, targeting 95%+ partner satisfaction through responsive service, proactive follow-ups, and effective issue resolution.
+
+Conducted regular account performance reviews, identifying growth opportunities and developing action plans designed to increase partner engagement and account value by 10–15%.
+
+Collaborated cross-functionally with internal teams to streamline issue resolution and improve operational efficiency, targeting a 20% reduction in resolution time.
+"
+/>    
+                
                 <Details 
 position="Client Operations Manager" company="Ready Education"
-time="2022-2025" address="(Full Time-Remote)"
+time="2022-2024" address="(Full Time-Remote)"
 work="
 Led client operations for 90+ higher-ed partnerships, driving adoption and long-term engagement of the SaaS platform while maintaining a 96% client satisfaction rate, ensuring all stakeholders had a seamless experience.
 
