@@ -1,4 +1,3 @@
-```jsx
 import React, {useRef} from "react";
 import { motion ,useScroll } from 'framer-motion'
 import LiIcon from "./LiIcon";
@@ -52,51 +51,30 @@ md:w-[2px] md:left-[30px] xs:left-[20px]
 '/>
 
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>  
-
-                <Details 
-position="Senior Partner Success Manager" company="Hagerty"
-companyLink="https://www.hagerty.com/"
-time="Dec 2024 - Present" address="Remote"
-work="
-Managed a portfolio of 30 partner accounts, driving account performance, partner engagement, and retention initiatives across the portfolio.
-
-Managed ongoing partner communications and escalations, targeting 95%+ partner satisfaction through responsive service, proactive follow-ups, and effective issue resolution.
-
-Conducted regular account performance reviews, identifying growth opportunities and developing action plans designed to increase partner engagement and account value by 10–15%.
-
-Collaborated cross-functionally with internal teams to streamline issue resolution and improve operational efficiency, targeting a 20% reduction in resolution time.
-"
-/>
-
                 <Details 
 position="Client Operations Manager" company="Ready Education"
-companyLink="https://www.readyeducation.com/"
-time="Feb 2022 - Oct 2024" address="Remote"
+time="2022-2025" address="(Full Time-Remote)"
 work="
-Owned a portfolio of 90+ SaaS clients, driving renewals, expansion, and long-term account growth across mid-market and enterprise segments.
+Led client operations for 90+ higher-ed partnerships, driving adoption and long-term engagement of the SaaS platform while maintaining a 96% client satisfaction rate, ensuring all stakeholders had a seamless experience.
 
-Developed and executed onboarding and adoption strategies, improving customer engagement and achieving a 96% satisfaction rate.
+Improved client onboarding efficiency by 35% through cross-team collaboration with product, engineering, and leadership, streamlining workflows and reducing average implementation time from weeks to days.
 
-Partnered cross-functionally with Sales and Product to identify expansion opportunities and influence product improvements based on client feedback.
+Managed escalations and complex system integrations across CRM, LMS, and SIS platforms, resolving critical issues quickly and maintaining operational continuity during rapid organizational changes. Supported strategic restructuring and executive-level initiatives, working closely with VP-level stakeholders to optimize processes, drive retention, and maintain business stability during a company-wide transition.
 
-Built repeatable engagement workflows and proactive outreach strategies to strengthen retention and increase pipeline consistency.
-
-Acted as a strategic advisor to client stakeholders, aligning platform capabilities with business goals to drive measurable outcomes.
+Recognized for high-impact problem-solving and adaptability in a startup environment, introducing process improvements that increased team efficiency and strengthened client relationships.
 "
-/>
+/>              
 
-                <Details 
+ <Details 
 position="Full Stack Software Engineer" company="100Devs"
-companyLink="https://leonnoel.com/100devs/"
-time="Feb 2021 - Dec 2022" address="Remote"
+time="2021-2022" address="Chicago, IL (Full Time-Remote)"
 work="
-Collaborated with interdisciplinary teams to develop applications and tools, enhancing user decision-making processes and resulting in a 40% increase in user engagement.
+Led cross-functional teams to design and launch applications that simplified decision-making and significantly enhanced user efficiency. 
 
-Managed a portfolio of key client accounts, exceeding retention goals by 15% through proactive communication, problem-solving, and exceeding client expectations.
+By leveraging the MERN stack, delivered scalable software solutions that reduced user errors by half and improved system performance by 30%. 
 
-Implemented strategic software engineering solutions to improve user experience and functionality, resulting in a 25% decrease in user complaints.
-
-Troubleshot technical issues and implemented scalable solutions to improve product performance and reliability.
+Collaborated with over 100 enterprises to elevate their digital presence, doubling website traffic and driving a 
+50% increase in online sales conversions.
 "
 />
 
@@ -107,4 +85,3 @@ Troubleshot technical issues and implemented scalable solutions to improve produ
 }
 
 export default Experience
-```
