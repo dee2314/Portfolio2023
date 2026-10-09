@@ -60,7 +60,7 @@ software development,
 I specialize in turning complex challenges into seamless experiences, 
 building lasting relationships, and finding smarter ways to work. 
 Whether I&apos;m driving client engagement or 
-solving technical problems, I bring a strategic mindset with apassion for making things work better.
+solving technical problems, I bring a strategic mindset with a passion for making things work better.
               </p>
 
               <p className="my-4 font-medium">
