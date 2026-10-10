@@ -68,7 +68,7 @@ Collaborated cross-functionally with internal teams to streamline issue resoluti
 />    
                 
                 <Details 
-position="Client Operations Manager" company="Ready Education"
+position="Lead Client Operations Manager" company="Ready Education"
 time="2022-2024" address="(Full Time-Remote)"
 work="
 Led client operations for 90+ higher-ed partnerships, driving adoption and long-term engagement of the SaaS platform while maintaining a 96% client satisfaction rate, ensuring all stakeholders had a seamless experience.
